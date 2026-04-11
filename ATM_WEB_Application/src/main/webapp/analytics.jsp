@@ -79,7 +79,6 @@ canvas {
 
 </div>
 
-<canvas id="chart" width="300"></canvas>
 
 <a href="dashboard.jsp" class="back">⬅ Back</a>
 

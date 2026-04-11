@@ -17,8 +17,7 @@ public interface ATMDAO {
     boolean transfer(int fromUser, int toUser, double amount);
 
     List<Transaction> getTransactions(int userId);
-    List<User> getAllUsers();
-    boolean deleteUser(int userId);
+
     double getTotalDeposit(int userId);
 
     double getTotalWithdraw(int userId);

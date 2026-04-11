@@ -96,9 +96,8 @@ function showToast(msg){
 
 <div class="navbar">
     <h2>ATM Dashboard</h2>
-   <a href="admin" style="color:white;margin-right:15px;">Admin Panel</a>
-<a href="analytics" style="color:white;margin-right:15px;">Analytics</a>
-
+  <a href="admin">Admin</a>
+<a href="analytics">Analytics</a>
     <a href="logout" class="logout">Logout</a>
 </div>
 
